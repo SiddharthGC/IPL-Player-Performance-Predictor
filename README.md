@@ -3,7 +3,7 @@ Siddharth Chandrasekar, 2018
 
 A player performance predictor that uses the Find-S algorithm. Built as a part of my Machine Learning coursework.
 
-The two CSV files in the repo contain data sourced from Kaggle. I used the python library pandas to do the data pre-processing.
+The two CSV files in the repo contain data sourced from Kaggle. I used the python library pandas to do all the data pre-processing.
 You can find the dataset here: https://www.kaggle.com/manasgarg/ipl
 
 The criteria for "a good IPL performance" in my opinion is as follows:
