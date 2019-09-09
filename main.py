@@ -1,5 +1,5 @@
 # Find S algorithm for predicting ipl player performance
-# Authors : Siddharth G.C, Gautham Sivakumar, Sanka Gopi Sumanth
+# Authors : Siddharth G.C
 # Last Modified : 28/03/2018 , 4:23 PM
 
 import csv
