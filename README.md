@@ -6,7 +6,7 @@ A player performance predictor that uses the Find-S algorithm. Built as a part o
 The two CSV files in the repo contain data sourced from Kaggle. I used the python library pandas to do all the data pre-processing.
 You can find the dataset here: https://www.kaggle.com/manasgarg/ipl
 
-The criteria for "a good IPL performance" in my opinion is as follows:
+The criteria for a "good IPL performance" in my opinion is as follows:
 
 1. A batsman should have a strike rate of at least 120
 2. A bowler should have a bowling economy lower than 6.5
